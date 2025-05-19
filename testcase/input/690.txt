@@ -1,0 +1,12 @@
+INSERT a string
+BEGIN
+END
+ASSIGN a 'HelloWorld'
+LOOKUP a
+PRINT
+RPRINT
+LOOKUP a
+BEGIN
+ASSIGN a 'Test123'
+INSERT c string
+END

@@ -1,0 +1,22 @@
+PRINT
+INSERT d number
+ASSIGN x unimportant
+RPRINT
+ASSIGN g_1 unimportant
+PRINT
+RPRINT
+PRINT
+ASSIGN d 456
+INSERT c number
+LOOKUP c
+LOOKUP c
+INSERT z number
+RPRINT
+ASSIGN 1xyz 123
+PRINT
+END
+END
+PRINT random
+END
+END
+END

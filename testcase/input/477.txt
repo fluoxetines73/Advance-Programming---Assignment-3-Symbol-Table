@@ -1,0 +1,7 @@
+PRINT
+INSERT b string
+ASSIGN b 'HelloWorld'
+RPRINT
+BEGIN
+LOOKUP b
+END

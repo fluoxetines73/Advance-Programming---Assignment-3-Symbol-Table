@@ -1,0 +1,10 @@
+PRINT
+BEGIN
+INSERT b string
+LOOKUP b
+INSERT f_FF number
+LOOKUP b
+END
+PRINT
+INSERT z number
+LOOKUP z

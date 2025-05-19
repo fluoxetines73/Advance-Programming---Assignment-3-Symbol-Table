@@ -1,0 +1,8 @@
+END
+INSERT a number random
+RPRINT
+BEGIN
+END
+INSERT b string random
+PRINT
+END

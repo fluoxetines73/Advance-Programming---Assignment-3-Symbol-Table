@@ -1,0 +1,2 @@
+BEGIN
+INSERT g_1 string

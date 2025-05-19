@@ -1,0 +1,19 @@
+INSERT y string
+INSERT z number
+INSERT a number
+LOOKUP a
+LOOKUP a
+RPRINT
+RPRINT random
+BEGIN
+END
+END
+PRINT
+RPRINT
+END
+PRINT
+INSERT b number
+INSERT d number
+LOOKUP d
+BEGIN
+END

@@ -1,0 +1,3 @@
+PRINT
+INSERT d string
+LOOKUP d

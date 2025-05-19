@@ -1,0 +1,10 @@
+RPRINT
+INSERT c string
+RPRINT
+ASSIGN c 'UPPERlower'
+BEGIN
+INSERT a string
+PRINT
+INSERT z string
+PRINT
+END

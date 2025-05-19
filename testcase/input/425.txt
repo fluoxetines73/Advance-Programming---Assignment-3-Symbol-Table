@@ -1,0 +1,14 @@
+END
+RPRINT
+INSERT y string
+INSERT d number random
+ASSIGN d 456
+END
+INSERT f_FF number
+RPRINT
+INSERT z number
+ASSIGN f_FF 1001
+PRINT
+END
+RPRINT
+BEGIN

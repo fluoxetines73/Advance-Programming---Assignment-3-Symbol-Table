@@ -1,0 +1,20 @@
+INSERT g_1 number
+INSERT g_1 string
+PRINT
+INSERT a string
+LOOKUP a
+PRINT
+END
+BEGIN
+BEGIN
+BEGIN
+INSERT x string
+INSERT c number random
+ASSIGN x '@stArt'
+ASSIGN x 'Test123'
+INSERT x string
+LOOKUP x
+END
+END
+PRINT
+UWAAAA

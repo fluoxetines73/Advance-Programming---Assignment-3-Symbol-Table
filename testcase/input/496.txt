@@ -1,0 +1,8 @@
+RPRINT
+PRINT
+INSERT y string random
+ASSIGN y 'UPPERlower'
+PRINT
+RPRINT
+BEGIN
+END

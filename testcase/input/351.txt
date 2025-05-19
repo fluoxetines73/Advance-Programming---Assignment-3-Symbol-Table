@@ -1,0 +1,11 @@
+END
+END
+PRINT
+BEGIN
+RPRINT
+BEGIN
+LOOKUP x random
+PRINT
+INSERT b number
+LOOKUP b random
+LOOKUP b

@@ -1,0 +1,2 @@
+ASSIGN d unimportant
+INSERT a string

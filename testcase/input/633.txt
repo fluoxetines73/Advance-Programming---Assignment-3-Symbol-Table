@@ -1,0 +1,4 @@
+PRINT
+RPRINT
+INSERT a number
+RPRINT

@@ -1,0 +1,7 @@
+PRINT
+BEGIN
+INSERT e_123_2r number
+LOOKUP e_123_2r
+INSERT x number
+INSERT g_1 number
+END

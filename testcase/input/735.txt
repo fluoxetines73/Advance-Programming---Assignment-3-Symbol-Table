@@ -1,0 +1,7 @@
+END
+BEGIN
+ASSIGN f_FF unimportant random
+RPRINT
+INSERT z number
+END random
+RPRINT

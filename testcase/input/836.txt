@@ -1,0 +1,6 @@
+PRINT
+ASSIGN z unimportant
+INSERT g_1 number
+LOOKUP g_1
+LOOKUP g_1
+INSERT e_123_2r string

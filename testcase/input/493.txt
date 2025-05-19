@@ -1,0 +1,25 @@
+BEGIN random
+RPRINT
+BEGIN
+INSERT z number
+LOOKUP z
+PRINT
+BEGIN
+END
+END
+END
+PRINT
+BEGIN
+INSERT b string
+ASSIGN b 'HelloWorld'
+ASSIGN b '1234ABC'
+LOOKUP b
+INSERT x number
+RPRINT
+ASSIGN b 'HelloWorld'
+LOOKUP b
+ASSIGN x 789
+BEGIN
+END
+ASSIGN b 'HelloWorld'
+END

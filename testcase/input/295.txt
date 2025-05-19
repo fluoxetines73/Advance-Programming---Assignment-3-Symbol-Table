@@ -1,0 +1,8 @@
+PRINT
+PRINT
+ASSIGN e_123_2r unimportant
+RPRINT random
+INSERT f_FF number
+LOOKUP c
+PRINT
+PRINT

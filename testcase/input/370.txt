@@ -1,0 +1,9 @@
+BEGIN
+ASSIGN g_1 unimportant
+END random
+INSERT a string
+ASSIGN a 'abcABC'
+UWAAAA
+END
+END
+PRINT

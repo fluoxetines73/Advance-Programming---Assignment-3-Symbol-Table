@@ -1,0 +1,9 @@
+PRINT
+PRINT
+PRINT
+END
+PRINT
+INSERT x string
+LOOKUP x
+INSERT e_123_2r number
+END

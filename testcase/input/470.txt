@@ -1,0 +1,9 @@
+BEGIN
+BEGIN
+PRINT
+RPRINT
+BEGIN
+ASSIGN e_123_2r unimportant
+INSERT d number
+RPRINT
+END

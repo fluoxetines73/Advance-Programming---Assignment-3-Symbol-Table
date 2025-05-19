@@ -1,0 +1,16 @@
+INSERT e_123_2r string
+INSERT g_1 number
+PRINT
+INSERT x number
+INSERT b number
+ASSIGN e_123_2r 'HelloWorld'
+ASSIGN g_1 789
+RPRINT
+RPRINT
+PRINT
+INSERT y string
+LOOKUP g_1
+RPRINT
+END
+END
+INSERT b number

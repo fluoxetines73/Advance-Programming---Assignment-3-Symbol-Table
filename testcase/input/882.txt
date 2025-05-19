@@ -1,0 +1,5 @@
+PRINT
+END
+RPRINT
+RPRINT
+INSERT g_1 number

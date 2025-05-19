@@ -1,0 +1,18 @@
+success
+0
+x//0
+success
+x//0
+x//0
+x//0
+success
+d//3 x//0
+d//3 x//0
+d//3 x//0
+0
+success
+success
+d//2 x//0
+d//2 x//0
+x//0
+x//0

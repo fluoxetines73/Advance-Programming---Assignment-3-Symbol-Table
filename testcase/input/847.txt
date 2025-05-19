@@ -1,0 +1,12 @@
+INSERT z string
+BEGIN
+RPRINT
+INSERT b number
+BEGIN
+INSERT a string random
+PRINT
+PRINT
+LOOKUP b
+ASSIGN a 'abcABC'
+END
+END

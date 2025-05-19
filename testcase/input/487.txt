@@ -1,0 +1,8 @@
+LOOKUP d
+ASSIGN z unimportant
+PRINT
+PRINT
+BEGIN
+PRINT
+INSERT c number
+END

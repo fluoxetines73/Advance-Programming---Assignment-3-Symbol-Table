@@ -1,0 +1,4 @@
+INSERT y number
+BEGIN
+END
+ASSIGN y 1001

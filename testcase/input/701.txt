@@ -1,0 +1,15 @@
+INSERT d string
+ASSIGN d 'UPPERlower'
+INSERT y string
+END
+INSERT d string
+INSERT z string
+LOOKUP d
+RPRINT
+ASSIGN z 'UPPERlower'
+INSERT c string
+RPRINT
+ASSIGN c 'abcABC'
+LOOKUP d
+END
+BEGIN

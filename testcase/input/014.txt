@@ -1,0 +1,21 @@
+INSERT g_1 string
+BEGIN
+PRINT
+ASSIGN g_1 'HelloWorld'
+PRINT
+INSERT a number
+END
+INSERT c number
+END
+END
+BEGIN
+RPRINT
+END
+INSERT z number
+RPRINT
+END
+BEGIN
+BEGIN
+INSERT z string
+ASSIGN z 'Test123'
+ASSIGN z 'HelloWorld'

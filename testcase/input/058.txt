@@ -1,0 +1,18 @@
+INSERT b number
+ASSIGN b 987654
+RPRINT
+PRINT
+INSERT z string
+LOOKUP b
+PRINT
+LOOKUP b
+RPRINT
+INSERT g_1 number
+LOOKUP z
+BEGIN
+INSERT d string
+LOOKUP b
+ASSIGN d 'UPPERlower'
+LOOKUP d
+INSERT f_FF string
+END random

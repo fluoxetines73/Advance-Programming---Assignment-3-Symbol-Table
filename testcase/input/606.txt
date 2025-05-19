@@ -1,0 +1,7 @@
+PRINT
+PRINT
+INSERT f_FF string
+INSERT g_1 number random
+LOOKUP g_1
+PRINT
+ASSIGN f_FF 'Test123'

@@ -1,0 +1,10 @@
+BEGIN
+INSERT a string
+RPRINT
+INSERT d string
+PRINT
+RPRINT
+RPRINT
+ASSIGN d 'HelloWorld'
+LOOKUP a
+END

@@ -1,0 +1,4 @@
+PRINT
+RPRINT
+PRINT
+INSERT e_123_2r string

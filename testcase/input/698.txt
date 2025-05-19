@@ -1,0 +1,8 @@
+BEGIN
+BEGIN
+INSERT e_123_2r string
+INSERT z string
+LOOKUP e_123_2r
+INSERT c number
+END
+END

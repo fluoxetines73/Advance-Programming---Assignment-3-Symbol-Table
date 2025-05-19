@@ -1,0 +1,5 @@
+INSERT c string
+END
+RPRINT
+INSERT b string
+LOOKUP b

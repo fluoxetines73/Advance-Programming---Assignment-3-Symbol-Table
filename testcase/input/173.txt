@@ -1,0 +1,3 @@
+INSERT c number
+ASSIGN c 987654
+RPRINT

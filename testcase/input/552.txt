@@ -1,0 +1,7 @@
+END
+BEGIN
+END
+PRINT
+INSERT x number
+END
+PRINT

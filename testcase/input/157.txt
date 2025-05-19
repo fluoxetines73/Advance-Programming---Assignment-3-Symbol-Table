@@ -1,0 +1,7 @@
+RPRINT
+PRINT
+PRINT
+PRINT
+PRINT
+INSERT x string
+INSERT z string

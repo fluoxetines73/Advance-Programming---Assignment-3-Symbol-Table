@@ -1,0 +1,4 @@
+INSERT 2_3f 123
+INSERT g_1 string
+PRINT
+RPRINT

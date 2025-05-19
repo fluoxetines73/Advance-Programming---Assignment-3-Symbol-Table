@@ -1,0 +1,11 @@
+INSERT a number
+BEGIN
+INSERT z string
+BEGIN
+LOOKUP a
+ASSIGN d unimportant
+END
+INSERT x string
+INSERT x number
+ASSIGN a 123
+UWAAAA

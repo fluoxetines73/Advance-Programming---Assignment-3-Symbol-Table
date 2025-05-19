@@ -1,0 +1,6 @@
+RPRINT
+INSERT d string random
+INSERT a number
+ASSIGN d 'HelloWorld'
+ASSIGN g_1 unimportant
+RPRINT

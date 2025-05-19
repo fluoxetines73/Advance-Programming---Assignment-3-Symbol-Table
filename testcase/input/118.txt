@@ -1,0 +1,3 @@
+INSERT c string
+INSERT a number
+LOOKUP a

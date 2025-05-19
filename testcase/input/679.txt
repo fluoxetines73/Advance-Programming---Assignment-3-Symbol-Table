@@ -1,0 +1,5 @@
+INSERT f_FF string
+END
+PRINT
+RPRINT
+END

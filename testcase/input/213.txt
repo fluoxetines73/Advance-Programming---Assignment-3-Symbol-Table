@@ -1,0 +1,12 @@
+END
+END
+BEGIN
+RPRINT
+BEGIN
+INSERT a number
+RPRINT
+LOOKUP z
+END
+INSERT c number
+PRINT
+INSERT y number

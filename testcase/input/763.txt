@@ -1,0 +1,9 @@
+END
+INSERT x string
+RPRINT
+PRINT
+END
+INSERT g_1 string
+END
+RPRINT
+PRINT

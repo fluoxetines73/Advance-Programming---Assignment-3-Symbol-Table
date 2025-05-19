@@ -1,0 +1,19 @@
+RPRINT
+RPRINT
+INSERT c number
+LOOKUP c
+ASSIGN c 987654
+RPRINT
+INSERT x number
+INSERT x string
+ASSIGN z unimportant
+INSERT f_FF string
+LOOKUP x
+ASSIGN c 123
+LOOKUP f_FF
+INSERT y string
+LOOKUP f_FF
+BEGIN
+INSERT e_123_2r number
+PRINT
+END

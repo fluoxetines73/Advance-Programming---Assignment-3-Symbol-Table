@@ -1,0 +1,17 @@
+INSERT z string
+LOOKUP d
+INSERT a number
+RPRINT
+END
+BEGIN
+END
+BEGIN
+BEGIN
+INSERT z string
+LOOKUP z
+LOOKUP c
+INSERT c number
+INSERT b number
+LOOKUP z
+END
+END

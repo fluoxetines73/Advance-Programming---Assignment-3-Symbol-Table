@@ -1,0 +1,10 @@
+INSERT d string
+ASSIGN d 'UPPERlower'
+ASSIGN d 'HelloWorld'
+PRINT
+UWAAAA
+RPRINT
+PRINT
+BEGIN
+LOOKUP d
+END

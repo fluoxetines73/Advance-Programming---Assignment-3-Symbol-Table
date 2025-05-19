@@ -1,0 +1,16 @@
+RPRINT
+PRINT
+PRINT
+PRINT
+RPRINT
+ASSIGN c unimportant
+INSERT a number
+PRINT
+INSERT g_1 string random
+ASSIGN a 789
+RPRINT
+ASSIGN g_1 '1234ABC'
+ASSIGN g_1 'HelloWorld'
+LOOKUP a
+END
+END

@@ -1,0 +1,22 @@
+RPRINT
+PRINT
+RPRINT
+PRINT
+BEGIN
+END
+INSERT b string
+RPRINT random
+LOOKUP b
+ASSIGN b 'HelloWorld' random
+BEGIN
+RPRINT
+ASSIGN x unimportant
+BEGIN
+INSERT b number
+INSERT a string
+PRINT
+END
+BEGIN
+PRINT
+END
+END

@@ -1,0 +1,17 @@
+INSERT y number
+PRINT
+RPRINT
+BEGIN
+INSERT f_FF string
+UWAAAA
+ASSIGN y 123
+PRINT
+BEGIN
+ASSIGN f_FF 'HelloWorld'
+PRINT
+INSERT z string
+INSERT x string
+END
+PRINT
+INSERT y number
+END

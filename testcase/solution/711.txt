@@ -1,0 +1,1 @@
+Invalid: ASSIGN g_1 'a@bc'

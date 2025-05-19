@@ -1,0 +1,10 @@
+RPRINT
+END
+PRINT
+BEGIN
+INSERT z string
+PRINT
+END
+INSERT a string
+ASSIGN a 'abcABC'
+INSERT b number

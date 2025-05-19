@@ -1,0 +1,18 @@
+RPRINT
+INSERT d number
+LOOKUP d
+INSERT c string
+LOOKUP c
+END
+INSERT e_123_2r string
+LOOKUP e_123_2r
+INSERT b number
+INSERT x string
+END
+BEGIN
+PRINT
+END
+UWAAAA
+INSERT d string
+LOOKUP d
+ASSIGN d 'HelloWorld'

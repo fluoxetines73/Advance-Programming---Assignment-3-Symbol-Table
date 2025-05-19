@@ -1,0 +1,17 @@
+BEGIN
+END
+INSERT z number
+INSERT z number
+RPRINT
+PRINT
+INSERT b string
+INSERT c number
+RPRINT
+INSERT x number
+INSERT __ g 123
+RPRINT
+BEGIN
+ASSIGN x 456
+PRINT
+INSERT g_1 string
+END

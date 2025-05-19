@@ -1,0 +1,7 @@
+BEGIN
+INSERT b number
+ASSIGN b 1001
+BEGIN
+INSERT z number
+END
+END

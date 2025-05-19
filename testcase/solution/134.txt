@@ -1,0 +1,1 @@
+Invalid: ASSIGN z 987654 random

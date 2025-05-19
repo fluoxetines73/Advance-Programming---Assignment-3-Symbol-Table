@@ -1,0 +1,5 @@
+BEGIN
+INSERT e_123_2r number
+INSERT c number
+INSERT y_12@! 123
+END

@@ -1,0 +1,2 @@
+INSERT g_1 number
+ASSIGN g_1 987654

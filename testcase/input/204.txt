@@ -1,0 +1,15 @@
+BEGIN
+BEGIN
+RPRINT
+INSERT b number
+INSERT y string random
+RPRINT
+LOOKUP y
+LOOKUP y
+ASSIGN y 'Test123'
+BEGIN
+INSERT c number
+ASSIGN y 'UPPERlower'
+END
+END
+END

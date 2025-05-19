@@ -1,0 +1,7 @@
+INSERT f_FF string
+INSERT c string
+PRINT
+END
+INSERT b number
+INSERT f_FF string
+INSERT x number

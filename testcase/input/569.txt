@@ -1,0 +1,6 @@
+INSERT f_FF string
+BEGIN
+LOOKUP f_FF
+LOOKUP f_FF
+ASSIGN f_FF 'abcABC'
+END

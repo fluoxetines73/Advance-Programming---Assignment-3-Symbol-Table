@@ -1,0 +1,11 @@
+END
+BEGIN
+END
+INSERT g_1 string random
+RPRINT
+LOOKUP g_1
+INSERT f_FF string
+ASSIGN f_FF 'HelloWorld'
+INSERT y number
+BEGIN
+INSERT c number

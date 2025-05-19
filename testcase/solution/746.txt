@@ -1,0 +1,1 @@
+Invalid: ASSIGN __ g 123

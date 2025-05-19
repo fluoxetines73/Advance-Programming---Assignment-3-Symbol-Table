@@ -1,0 +1,9 @@
+END
+INSERT f_FF string
+BEGIN
+LOOKUP y
+LOOKUP f_FF
+BEGIN
+INSERT c string
+END
+RPRINT

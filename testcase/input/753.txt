@@ -1,0 +1,6 @@
+ASSIGN z unimportant
+END
+INSERT e_123_2r number
+LOOKUP e_123_2r
+PRINT
+END

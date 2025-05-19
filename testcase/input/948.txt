@@ -1,0 +1,9 @@
+END
+END
+INSERT z string
+END random
+PRINT
+END
+END
+END
+PRINT

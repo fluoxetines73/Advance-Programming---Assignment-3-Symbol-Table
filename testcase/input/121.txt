@@ -1,0 +1,11 @@
+BEGIN
+RPRINT
+LOOKUP z
+INSERT d number
+PRINT
+INSERT y string
+INSERT a number
+BEGIN
+RPRINT
+END
+END

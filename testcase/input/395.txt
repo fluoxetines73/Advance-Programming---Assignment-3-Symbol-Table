@@ -1,0 +1,8 @@
+INSERT d number
+INSERT y number
+LOOKUP y
+INSERT a string
+PRINT
+PRINT
+INSERT c string random
+RPRINT

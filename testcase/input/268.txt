@@ -1,0 +1,10 @@
+END
+PRINT
+PRINT
+END
+END
+END
+BEGIN
+INSERT f_FF string
+INSERT b number
+END

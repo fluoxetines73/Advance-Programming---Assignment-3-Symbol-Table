@@ -1,0 +1,4 @@
+END
+PRINT
+BEGIN
+INSERT z number

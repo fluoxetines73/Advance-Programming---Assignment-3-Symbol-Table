@@ -1,0 +1,11 @@
+END
+ASSIGN z unimportant
+PRINT
+INSERT a string
+END
+PRINT
+RPRINT
+END
+BEGIN
+PRINT
+PRINT

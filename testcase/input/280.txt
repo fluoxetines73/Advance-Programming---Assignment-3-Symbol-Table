@@ -1,0 +1,22 @@
+INSERT y number
+RPRINT
+RPRINT
+INSERT y string
+PRINT
+BEGIN
+UWAAAA
+PRINT
+END
+INSERT x string
+ASSIGN x 'HelloWorld'
+PRINT
+INSERT f_FF string
+INSERT c string
+INSERT d string
+INSERT z string
+INSERT g_1 number random
+ASSIGN c 'Test123'
+RPRINT
+BEGIN
+LOOKUP c
+END

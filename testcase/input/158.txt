@@ -1,0 +1,15 @@
+INSERT c string
+PRINT
+UWAAAA
+BEGIN
+RPRINT
+BEGIN
+ASSIGN c 'Test123'
+INSERT g_1 string
+LOOKUP c
+LOOKUP g_1
+PRINT
+INSERT b string
+LOOKUP g_1
+END
+END random

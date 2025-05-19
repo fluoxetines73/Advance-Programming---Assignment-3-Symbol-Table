@@ -1,0 +1,7 @@
+RPRINT
+INSERT z number
+LOOKUP z
+BEGIN
+INSERT f_FF number
+ASSIGN f_FF 1001
+END

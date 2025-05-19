@@ -1,0 +1,3 @@
+BEGIN
+END
+INSERT g_1 number

@@ -1,0 +1,2 @@
+BEGIN
+INSERT f_FF string

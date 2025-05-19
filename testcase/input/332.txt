@@ -1,0 +1,9 @@
+INSERT e_123_2r string
+INSERT d string
+RPRINT
+ASSIGN d 'HelloWorld'
+RPRINT
+ASSIGN e_123_2r 123
+RPRINT
+LOOKUP d
+END

@@ -1,0 +1,12 @@
+INSERT x string
+ASSIGN x 'abcABC'
+INSERT g_1 string
+BEGIN
+END
+END
+INSERT f_FF string
+END
+RPRINT
+END
+PRINT
+END random

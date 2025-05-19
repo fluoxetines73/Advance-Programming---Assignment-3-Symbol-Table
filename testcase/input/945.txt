@@ -1,0 +1,5 @@
+INSERT d number
+INSERT g_1 number
+BEGIN
+LOOKUP g_1
+END

@@ -1,0 +1,8 @@
+END
+BEGIN
+PRINT
+INSERT z string
+INSERT x number
+BEGIN
+LOOKUP x
+END

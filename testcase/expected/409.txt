@@ -1,0 +1,1 @@
+Invalid: ASSIGN f_FF 123a

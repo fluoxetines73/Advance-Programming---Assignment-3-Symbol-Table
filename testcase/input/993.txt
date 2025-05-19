@@ -1,0 +1,8 @@
+BEGIN
+INSERT d string
+ASSIGN d 'UPPERlower' random
+INSERT f_FF string
+INSERT z string
+LOOKUP f_FF
+PRINT
+END

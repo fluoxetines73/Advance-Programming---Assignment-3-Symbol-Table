@@ -1,0 +1,16 @@
+LOOKUP x
+INSERT x string
+INSERT a string
+BEGIN
+ASSIGN a 'UPPERlower'
+PRINT
+ASSIGN a 'HelloWorld'
+ASSIGN x abc'
+PRINT
+INSERT f_FF string
+BEGIN
+END
+RPRINT
+ASSIGN a 'abcABC'
+ASSIGN a 'HelloWorld'
+END random

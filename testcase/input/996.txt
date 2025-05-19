@@ -1,0 +1,21 @@
+ASSIGN z unimportant
+RPRINT
+INSERT c string
+INSERT z string
+LOOKUP c
+ASSIGN z 'HelloWorld'
+BEGIN
+LOOKUP z
+LOOKUP z
+ASSIGN c 'UPPERlower'
+END
+ASSIGN z 'HelloWorld'
+END
+END
+INSERT e_123_2r number
+END
+PRINT
+INSERT a number
+LOOKUP a
+INSERT e_123_2r number
+INSERT g_1 string random

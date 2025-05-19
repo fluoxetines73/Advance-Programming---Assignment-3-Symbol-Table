@@ -1,0 +1,17 @@
+END
+PRINT
+BEGIN
+PRINT
+INSERT f_FF string
+INSERT d string
+INSERT d number
+INSERT x string
+PRINT
+INSERT g_1 string
+END
+ASSIGN f_FF unimportant
+BEGIN
+PRINT
+BEGIN
+RPRINT
+END

@@ -1,0 +1,13 @@
+PRINT
+RPRINT
+RPRINT
+END
+RPRINT
+END random
+INSERT z string random
+INSERT f_FF number
+ASSIGN z '1234ABC'
+END
+END
+BEGIN
+INSERT b number

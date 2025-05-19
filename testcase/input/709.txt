@@ -1,0 +1,14 @@
+BEGIN
+END
+INSERT f_FF string
+RPRINT random
+INSERT y string
+BEGIN
+PRINT
+BEGIN
+INSERT e_123_2r number
+RPRINT
+BEGIN
+END
+END
+END

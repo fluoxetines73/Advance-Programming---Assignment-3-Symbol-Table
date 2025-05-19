@@ -1,0 +1,8 @@
+INSERT y string
+RPRINT
+INSERT y number
+PRINT
+PRINT
+END
+RPRINT
+BEGIN

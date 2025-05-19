@@ -1,0 +1,7 @@
+PRINT
+PRINT
+INSERT g_1 number
+INSERT x number random
+RPRINT
+LOOKUP x
+LOOKUP g_1

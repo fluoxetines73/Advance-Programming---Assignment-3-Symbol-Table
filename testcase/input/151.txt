@@ -1,0 +1,22 @@
+INSERT g_1 number
+LOOKUP g_1
+BEGIN
+END
+PRINT
+END
+PRINT
+INSERT x string
+INSERT z string
+RPRINT
+PRINT
+ASSIGN z 'abcABC'
+ASSIGN x 'HelloWorld'
+PRINT
+UWAAAA
+BEGIN
+INSERT y string
+PRINT
+BEGIN
+BEGIN
+END
+END random

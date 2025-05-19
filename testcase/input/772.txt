@@ -1,0 +1,9 @@
+PRINT
+BEGIN
+INSERT y string
+BEGIN
+INSERT d number
+PRINT
+END
+PRINT
+END

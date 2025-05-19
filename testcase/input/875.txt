@@ -1,0 +1,14 @@
+BEGIN
+END
+PRINT
+PRINT
+INSERT y string
+INSERT c string
+LOOKUP y
+INSERT d number
+INSERT x number
+RPRINT
+RPRINT
+INSERT e_123_2r string
+INSERT b number
+END

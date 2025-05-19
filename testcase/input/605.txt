@@ -1,0 +1,4 @@
+PRINT
+INSERT g_1 number
+RPRINT
+INSERT c number

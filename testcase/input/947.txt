@@ -1,0 +1,10 @@
+END
+INSERT y number
+INSERT c number
+RPRINT
+LOOKUP c
+INSERT f_FF string
+END
+RPRINT
+BEGIN
+PRINT

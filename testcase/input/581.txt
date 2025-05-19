@@ -1,0 +1,12 @@
+BEGIN
+BEGIN
+END
+BEGIN random
+RPRINT
+INSERT a string
+LOOKUP a
+BEGIN
+LOOKUP a
+LOOKUP a
+ASSIGN a 'Test123'
+INSERT d number

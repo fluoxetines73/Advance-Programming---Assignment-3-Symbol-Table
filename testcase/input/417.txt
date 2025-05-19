@@ -1,0 +1,20 @@
+RPRINT
+LOOKUP d
+END
+BEGIN
+RPRINT
+INSERT x number
+END
+BEGIN
+INSERT g_1 string
+BEGIN
+INSERT a string
+LOOKUP g_1
+ASSIGN a 'HelloWorld'
+ASSIGN a 'HelloWorld'
+END
+INSERT a number
+RPRINT
+INSERT d number
+ASSIGN a 123.8.7
+ASSIGN d 987654

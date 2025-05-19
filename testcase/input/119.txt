@@ -1,0 +1,10 @@
+INSERT e_123_2r string
+BEGIN
+ASSIGN e_123_2r 'HelloWorld'
+BEGIN
+INSERT 2_3f 123
+INSERT g_1 number
+BEGIN
+END
+END
+END

@@ -1,0 +1,15 @@
+ASSIGN a unimportant
+PRINT
+PRINT
+ASSIGN b unimportant
+PRINT
+END
+END
+BEGIN
+RPRINT
+RPRINT
+INSERT b number
+INSERT b string
+END
+RPRINT
+RPRINT

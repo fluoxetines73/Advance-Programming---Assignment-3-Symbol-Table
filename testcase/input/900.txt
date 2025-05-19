@@ -1,0 +1,5 @@
+PRINT
+END
+RPRINT
+INSERT e_123_2r number
+BEGIN

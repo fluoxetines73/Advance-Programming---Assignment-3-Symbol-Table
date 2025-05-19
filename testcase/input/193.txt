@@ -1,0 +1,9 @@
+BEGIN
+BEGIN
+INSERT g_1 number
+INSERT e_123_2r number
+INSERT c string
+INSERT f_FF string
+PRINT
+END
+END

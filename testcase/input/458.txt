@@ -1,0 +1,4 @@
+INSERT b number
+INSERT e_123_2r string
+INSERT g_1 string
+PRINT

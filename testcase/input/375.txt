@@ -1,0 +1,3 @@
+INSERT g_1 number
+INSERT _@_$$d 123
+INSERT a number

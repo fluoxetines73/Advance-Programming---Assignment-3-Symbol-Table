@@ -1,0 +1,18 @@
+PRINT
+PRINT
+UWAAAA
+END
+INSERT a string
+LOOKUP a
+PRINT
+ASSIGN a 'HelloWorld'
+END
+INSERT b string
+INSERT g_1 string
+INSERT f_FF number
+RPRINT
+END
+RPRINT
+INSERT x string
+BEGIN
+RPRINT

@@ -1,0 +1,7 @@
+ASSIGN f_FF unimportant
+PRINT
+INSERT f_FF string
+INSERT y_12@! 123
+RPRINT
+PRINT
+RPRINT

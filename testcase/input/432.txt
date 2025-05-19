@@ -1,0 +1,6 @@
+BEGIN
+INSERT d number
+PRINT
+ASSIGN d 987654
+INSERT e_123_2r number
+END

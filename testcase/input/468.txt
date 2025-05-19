@@ -1,0 +1,6 @@
+INSERT b string
+LOOKUP b
+INSERT c string
+BEGIN random
+LOOKUP y
+END

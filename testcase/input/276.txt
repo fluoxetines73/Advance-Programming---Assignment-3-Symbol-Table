@@ -1,0 +1,7 @@
+INSERT z string
+RPRINT
+PRINT
+END
+INSERT g_1 string
+INSERT b string
+LOOKUP b

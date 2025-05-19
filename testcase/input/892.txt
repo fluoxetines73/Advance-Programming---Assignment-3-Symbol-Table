@@ -1,0 +1,7 @@
+RPRINT
+ASSIGN y unimportant
+BEGIN
+PRINT
+RPRINT
+PRINT
+END

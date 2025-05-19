@@ -1,0 +1,7 @@
+PRINT
+ASSIGN g_1 unimportant
+RPRINT
+END
+INSERT f_FF number
+INSERT x string
+RPRINT

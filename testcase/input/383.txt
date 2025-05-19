@@ -1,0 +1,25 @@
+PRINT
+BEGIN
+END
+INSERT a number
+INSERT z number
+LOOKUP a
+INSERT e_123_2r string
+PRINT random
+INSERT b string
+END
+BEGIN
+BEGIN
+RPRINT
+ASSIGN a unimportant
+BEGIN
+RPRINT
+END
+PRINT
+INSERT f_FF number
+INSERT c string
+RPRINT
+END
+END
+BEGIN
+INSERT z string

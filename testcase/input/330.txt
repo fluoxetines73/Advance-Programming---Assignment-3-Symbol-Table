@@ -1,0 +1,6 @@
+INSERT c number
+BEGIN
+END
+ASSIGN c 1001
+LOOKUP c
+LOOKUP c

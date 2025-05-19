@@ -1,0 +1,4 @@
+INSERT e_123_2r string
+INSERT d string
+PRINT
+PRINT random

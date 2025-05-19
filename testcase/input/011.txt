@@ -1,0 +1,11 @@
+PRINT
+INSERT z number
+END
+END
+RPRINT
+RPRINT
+RPRINT
+INSERT d string
+INSERT b number
+RPRINT
+END
