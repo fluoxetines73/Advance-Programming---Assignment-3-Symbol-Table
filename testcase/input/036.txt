@@ -1,5 +1,5 @@
-INSERT c string
+BEGIN
+BEGIN
 END
-RPRINT
-INSERT b string
-LOOKUP b
+END
+END

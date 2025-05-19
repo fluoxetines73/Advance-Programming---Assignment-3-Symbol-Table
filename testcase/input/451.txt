@@ -1,8 +1,0 @@
-RPRINT
-END
-PRINT
-INSERT g_1 number
-END
-RPRINT
-END
-INSERT x number

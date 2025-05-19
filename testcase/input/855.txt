@@ -1,8 +1,0 @@
-PRINT
-BEGIN
-INSERT b number
-BEGIN
-END
-RPRINT
-PRINT random
-END

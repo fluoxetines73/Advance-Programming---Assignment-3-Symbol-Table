@@ -1,4 +1,0 @@
-PRINT
-RPRINT
-INSERT e_123_2r string
-ASSIGN e_123_2r 'UPPERlower'

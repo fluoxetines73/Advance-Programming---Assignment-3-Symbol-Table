@@ -1,4 +1,0 @@
-LOOKUP a
-INSERT g_1 string
-END
-END

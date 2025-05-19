@@ -1,2 +1,0 @@
-RPRINT
-ASSIGN ()z 123

@@ -1,6 +1,0 @@
-UWAAAA
-INSERT a number
-PRINT
-ASSIGN a 789
-PRINT
-ASSIGN a 'HelloWorld'

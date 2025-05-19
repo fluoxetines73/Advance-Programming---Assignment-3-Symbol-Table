@@ -1,1 +1,0 @@
-Invalid: INSERT _@_$$d 123

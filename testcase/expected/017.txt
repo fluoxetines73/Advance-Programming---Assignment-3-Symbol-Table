@@ -1,1 +1,1 @@
-Undeclared: LOOKUP x
+Invalid: ASSIGN x -122

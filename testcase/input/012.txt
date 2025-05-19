@@ -1,15 +1,1 @@
-PRINT
-END
-RPRINT
-END
-PRINT
-BEGIN
-PRINT
-RPRINT
-INSERT b number
-INSERT c string
-INSERT d number
-BEGIN
-RPRINT
-INSERT b string
-PRINT
+INSERT string string

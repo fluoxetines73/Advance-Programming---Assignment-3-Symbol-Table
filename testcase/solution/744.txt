@@ -1,1 +1,0 @@
-Invalid: INSERT d string random

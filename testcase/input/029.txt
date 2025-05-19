@@ -1,13 +1,3 @@
-RPRINT
+INSERT x number
+INSERT y number
 PRINT
-PRINT
-BEGIN
-INSERT z string
-END
-BEGIN
-INSERT a number
-BEGIN
-BEGIN
-END
-END
-END

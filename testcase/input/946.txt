@@ -1,7 +1,0 @@
-INSERT z number
-BEGIN
-PRINT
-END
-PRINT
-RPRINT
-INSERT b number

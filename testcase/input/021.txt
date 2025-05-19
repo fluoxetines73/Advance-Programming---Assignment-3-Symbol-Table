@@ -1,17 +1,4 @@
-END
-RPRINT
-END
-END
-PRINT
+INSERT x number
 BEGIN
-INSERT y string
-END
-BEGIN
-INSERT g_1 number
-BEGIN
-INSERT e_123_2r number
-ASSIGN g_1 789
-PRINT
-ASSIGN e_123_2r 987654
-INSERT b number
+INSERT x number
 END

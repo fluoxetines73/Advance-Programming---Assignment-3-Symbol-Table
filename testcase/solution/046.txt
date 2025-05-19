@@ -1,1 +1,1 @@
-Invalid: BEGIN random
+Invalid: Invalid command

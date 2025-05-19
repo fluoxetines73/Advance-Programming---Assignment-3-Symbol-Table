@@ -1,3 +1,0 @@
-INSERT y_12@! 123
-BEGIN
-END

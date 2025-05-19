@@ -1,7 +1,0 @@
-RPRINT
-BEGIN
-INSERT z string
-INSERT a number
-END
-RPRINT
-INSERT e_123_2r number

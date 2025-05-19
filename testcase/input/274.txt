@@ -1,3 +1,0 @@
-RPRINT random
-RPRINT
-UWAAAA

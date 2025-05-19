@@ -1,8 +1,0 @@
-PRINT
-INSERT d number
-LOOKUP d
-BEGIN
-INSERT a number
-END
-PRINT
-INSERT g_1 number

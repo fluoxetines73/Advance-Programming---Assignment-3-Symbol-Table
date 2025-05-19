@@ -1,9 +1,2 @@
-INSERT b string
-RPRINT
-LOOKUP b
-LOOKUP b
-INSERT e_123_2r string
 INSERT x number
-BEGIN random
-PRINT
-END
+ 

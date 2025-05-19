@@ -1,9 +1,0 @@
-BEGIN
-END random
-INSERT z string
-RPRINT
-INSERT f_FF string
-PRINT
-BEGIN
-RPRINT
-END

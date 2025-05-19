@@ -1,6 +1,0 @@
-RPRINT
-PRINT random
-PRINT
-RPRINT
-INSERT f_FF number
-ASSIGN f_FF abc123

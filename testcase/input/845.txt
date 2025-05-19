@@ -1,8 +1,0 @@
-RPRINT
-BEGIN
-INSERT b number
-ASSIGN c unimportant
-END
-LOOKUP b
-BEGIN
-END

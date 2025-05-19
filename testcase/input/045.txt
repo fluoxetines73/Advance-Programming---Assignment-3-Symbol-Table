@@ -1,4 +1,6 @@
-PRINT
-END
-PRINT
+INSERT x string
+INSERT y string
 BEGIN
+INSERT x string
+RPRINT
+END

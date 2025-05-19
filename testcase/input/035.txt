@@ -1,2 +1,2 @@
-INSERT z string random
-PRINT
+INSERT x string
+ASSIGN x '1bc'

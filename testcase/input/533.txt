@@ -1,8 +1,0 @@
-END
-INSERT c string
-ASSIGN c 'HelloWorld'
-RPRINT
-BEGIN
-PRINT
-ASSIGN c 'abcABC'
-PRINT

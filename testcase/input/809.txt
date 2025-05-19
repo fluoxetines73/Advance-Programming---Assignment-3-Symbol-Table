@@ -1,6 +1,0 @@
-END
-RPRINT
-END
-END
-BEGIN
-INSERT g_1 string

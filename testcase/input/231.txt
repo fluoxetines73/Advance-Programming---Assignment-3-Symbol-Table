@@ -1,7 +1,0 @@
-RPRINT
-BEGIN random
-INSERT z number
-RPRINT
-BEGIN
-END
-END

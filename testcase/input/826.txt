@@ -1,4 +1,0 @@
-INSERT z number
-END
-UWAAAA
-END

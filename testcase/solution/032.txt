@@ -1,1 +1,3 @@
-Invalid: INSERT c number random
+success
+success
+y//0 x//0

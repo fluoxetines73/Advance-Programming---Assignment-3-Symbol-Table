@@ -1,5 +1,0 @@
-INSERT a string
-INSERT y string
-PRINT
-RPRINT
-PRINT

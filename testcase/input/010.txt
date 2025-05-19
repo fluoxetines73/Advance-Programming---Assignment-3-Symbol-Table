@@ -1,9 +1,1 @@
-BEGIN
-PRINT
-ASSIGN d unimportant
-RPRINT
-RPRINT
-END
-END
-PRINT
-END random
+INSERT b2_ number

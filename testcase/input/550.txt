@@ -1,3 +1,0 @@
-PRINT
-END
-INSERT g_1 number

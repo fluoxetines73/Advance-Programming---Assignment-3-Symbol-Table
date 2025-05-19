@@ -1,1 +1,1 @@
-Invalid: INSERT d string random
+Invalid: Invalid command

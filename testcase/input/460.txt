@@ -1,8 +1,0 @@
-INSERT y string
-PRINT
-RPRINT
-INSERT z number
-LOOKUP y
-ASSIGN y 'abcABC'
-RPRINT
-INSERT y string

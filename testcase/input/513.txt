@@ -1,3 +1,0 @@
-INSERT b string
-LOOKUP b
-ASSIGN b 'HelloWorld'

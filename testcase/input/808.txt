@@ -1,7 +1,0 @@
-INSERT b string
-RPRINT
-INSERT g_1 string
-LOOKUP g_1
-RPRINT
-LOOKUP b
-INSERT d number

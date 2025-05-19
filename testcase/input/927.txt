@@ -1,4 +1,0 @@
-END
-INSERT d string random
-LOOKUP d
-LOOKUP d

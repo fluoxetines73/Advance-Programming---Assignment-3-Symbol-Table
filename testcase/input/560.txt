@@ -1,7 +1,0 @@
-PRINT
-END
-RPRINT
-INSERT c string
-ASSIGN c 'Test123'
-RPRINT
-ASSIGN c 'Test123'

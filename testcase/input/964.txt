@@ -1,5 +1,0 @@
-PRINT
-INSERT f_FF number
-INSERT z number
-ASSIGN z 789
-LOOKUP z random

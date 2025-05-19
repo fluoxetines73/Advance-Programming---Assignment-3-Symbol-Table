@@ -1,7 +1,0 @@
-RPRINT
-END
-INSERT c string
-UWAAAA
-END
-END
-END

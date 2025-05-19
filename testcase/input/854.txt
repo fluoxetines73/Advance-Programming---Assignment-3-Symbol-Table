@@ -1,4 +1,0 @@
-BEGIN
-PRINT
-END
-END

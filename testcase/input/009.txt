@@ -1,5 +1,1 @@
-PRINT
-INSERT c number
-ASSIGN z unimportant
-INSERT f_FF string
-END
+INSERT b_ string

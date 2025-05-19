@@ -1,4 +1,2 @@
-RPRINT
-LOOKUP x
-BEGIN
-END
+INSERT x number
+ASSIGN x -122

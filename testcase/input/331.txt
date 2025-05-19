@@ -1,4 +1,0 @@
-PRINT
-RPRINT
-INSERT y number
-END

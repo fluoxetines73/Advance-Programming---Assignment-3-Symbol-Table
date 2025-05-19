@@ -1,5 +1,0 @@
-PRINT random
-INSERT f_FF number
-INSERT b string
-ASSIGN b '1234ABC'
-ASSIGN f_FF 789

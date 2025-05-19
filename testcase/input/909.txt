@@ -1,8 +1,0 @@
-BEGIN
-LOOKUP d
-INSERT c number
-RPRINT random
-ASSIGN c 789
-PRINT random
-LOOKUP c
-END

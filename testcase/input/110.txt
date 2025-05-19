@@ -1,4 +1,0 @@
-PRINT
-INSERT f_FF string
-PRINT
-END

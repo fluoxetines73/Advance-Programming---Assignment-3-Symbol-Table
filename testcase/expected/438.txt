@@ -1,1 +1,0 @@
-Invalid: INSERT e_123_2r string random

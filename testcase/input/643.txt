@@ -1,9 +1,0 @@
-BEGIN
-END
-INSERT e_123_2r number
-UWAAAA
-INSERT f_FF string
-INSERT a string
-BEGIN
-INSERT d string
-END

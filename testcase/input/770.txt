@@ -1,3 +1,0 @@
-BEGIN
-END
-INSERT f_FF number

@@ -1,3 +1,0 @@
-INSERT e_123_2r number
-LOOKUP e_123_2r
-RPRINT

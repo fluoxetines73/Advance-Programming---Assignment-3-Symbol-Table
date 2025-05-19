@@ -1,8 +1,0 @@
-END
-END
-BEGIN
-PRINT
-PRINT
-INSERT d number
-INSERT b string
-INSERT e_123_2r number

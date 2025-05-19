@@ -1,6 +1,0 @@
-END
-INSERT y number
-END
-RPRINT
-END
-BEGIN

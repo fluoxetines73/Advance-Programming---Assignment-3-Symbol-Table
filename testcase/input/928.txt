@@ -1,9 +1,0 @@
-RPRINT
-BEGIN
-RPRINT
-INSERT c number
-UWAAAA
-ASSIGN c 123
-ASSIGN y unimportant
-RPRINT
-INSERT x string

@@ -1,14 +1,1 @@
-
-
-success
-1
-success
-e_123_2r//0
-e_123_2r//0
-e_123_2r//0
-success
-0
-e_123_2r//0
-e_123_2r//0
-e_123_2r//0
-0
+TypeMismatch: ASSIGN x 1

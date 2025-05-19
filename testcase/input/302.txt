@@ -1,4 +1,0 @@
-INSERT f_FF number
-LOOKUP f_FF
-LOOKUP f_FF
-END

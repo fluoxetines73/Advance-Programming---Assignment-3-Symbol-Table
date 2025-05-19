@@ -1,3 +1,0 @@
-BEGIN
-INSERT e_123_2r number
-END

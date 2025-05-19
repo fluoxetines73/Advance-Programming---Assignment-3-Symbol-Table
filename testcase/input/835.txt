@@ -1,3 +1,0 @@
-ASSIGN aak e 123
-RPRINT
-RPRINT

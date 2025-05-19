@@ -1,6 +1,0 @@
-INSERT f_FF number
-LOOKUP f_FF
-INSERT y number
-ASSIGN f_FF 987654
-BEGIN
-END

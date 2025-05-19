@@ -1,8 +1,0 @@
-RPRINT
-INSERT z number
-INSERT x number random
-LOOKUP z
-ASSIGN _@_$$d 123
-BEGIN
-LOOKUP z
-END

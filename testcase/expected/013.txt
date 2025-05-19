@@ -1,1 +1,2 @@
-Invalid: PRINT random
+success
+success

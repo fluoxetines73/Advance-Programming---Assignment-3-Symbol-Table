@@ -1,1 +1,1 @@
-Invalid: UWAAAA
+Undeclared: LOOKUP string

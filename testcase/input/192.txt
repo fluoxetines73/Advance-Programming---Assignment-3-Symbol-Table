@@ -1,6 +1,0 @@
-ASSIGN g_1 unimportant
-BEGIN
-RPRINT
-PRINT
-RPRINT
-END

@@ -1,4 +1,0 @@
-INSERT a string
-INSERT b@B((*@ 123
-ASSIGN a 456
-LOOKUP a

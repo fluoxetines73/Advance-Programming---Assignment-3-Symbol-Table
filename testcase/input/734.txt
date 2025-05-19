@@ -1,5 +1,0 @@
-INSERT z number
-INSERT c string
-RPRINT
-INSERT g_1 number
-END

@@ -1,8 +1,0 @@
-BEGIN
-END
-INSERT e_123_2r number
-INSERT x number
-ASSIGN x 789
-RPRINT
-BEGIN
-END

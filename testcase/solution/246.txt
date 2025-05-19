@@ -1,1 +1,0 @@
-Invalid: INSERT b@B((*@ 123

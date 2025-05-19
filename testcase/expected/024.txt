@@ -1,1 +1,1 @@
-Invalid: UWAAAA
+Invalid: LOOKUP B

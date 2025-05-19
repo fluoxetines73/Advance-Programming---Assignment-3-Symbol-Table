@@ -1,9 +1,1 @@
-
-
-
-
-
-success
-b//0
-success
-success
+Redeclared: INSERT x number

@@ -1,5 +1,0 @@
-INSERT b number random
-LOOKUP b
-BEGIN
-LOOKUP b
-END

@@ -1,1 +1,0 @@
-TypeMismatch: ASSIGN f_FF '1234ABC'

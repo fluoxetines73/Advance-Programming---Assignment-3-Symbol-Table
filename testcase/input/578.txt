@@ -1,3 +1,0 @@
-UWAAAA
-PRINT
-INSERT x number

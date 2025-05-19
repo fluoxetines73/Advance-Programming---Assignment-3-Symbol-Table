@@ -1,5 +1,5 @@
 from TestUtils import TestUtils
-from TestSuite_1 import TestSymbolTable
+from TestSuite import TestSymbolTable
 from pprint import pprint
 from io import StringIO
 import unittest

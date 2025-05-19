@@ -1,6 +1,0 @@
-INSERT x string
-LOOKUP x
-ASSIGN x 'HelloWorld'
-ASSIGN x 'abcABC'
-LOOKUP f_FF
-INSERT c number

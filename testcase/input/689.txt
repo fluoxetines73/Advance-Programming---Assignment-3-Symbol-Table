@@ -1,5 +1,0 @@
-PRINT
-PRINT
-INSERT z number
-END
-PRINT

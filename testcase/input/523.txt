@@ -1,6 +1,0 @@
-INSERT y string
-INSERT a number
-LOOKUP y
-ASSIGN y 'abcABC'
-INSERT g_1 string
-ASSIGN g_1 'abcABC'

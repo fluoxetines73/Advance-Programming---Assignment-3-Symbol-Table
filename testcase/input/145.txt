@@ -1,2 +1,0 @@
-RPRINT
-INSERT x string

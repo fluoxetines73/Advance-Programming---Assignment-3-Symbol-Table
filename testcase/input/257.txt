@@ -1,7 +1,0 @@
-INSERT d number
-LOOKUP d
-RPRINT
-ASSIGN d 123.8.7
-LOOKUP d
-INSERT f_FF number
-INSERT z string

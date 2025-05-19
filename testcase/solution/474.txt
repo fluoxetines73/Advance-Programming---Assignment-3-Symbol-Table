@@ -1,1 +1,0 @@
-Invalid: ASSIGN e_123_2r 987654 random

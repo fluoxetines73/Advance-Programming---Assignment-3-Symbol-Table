@@ -1,1 +1,1 @@
-Invalid: UWAAAA
+Invalid: ASSIGN x bc@ed

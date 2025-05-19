@@ -1,5 +1,0 @@
-BEGIN
-END
-UWAAAA
-END
-INSERT e_123_2r number

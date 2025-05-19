@@ -1,5 +1,0 @@
-PRINT random
-PRINT
-LOOKUP b
-BEGIN
-END

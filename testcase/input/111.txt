@@ -1,6 +1,0 @@
-END
-LOOKUP d
-UWAAAA
-END random
-BEGIN
-END

@@ -1,3 +1,0 @@
-INSERT e_123_2r number
-PRINT
-ASSIGN e_123_2r 456

@@ -1,9 +1,0 @@
-BEGIN
-BEGIN
-END
-INSERT b number
-ASSIGN y unimportant
-UWAAAA
-ASSIGN b 123 random
-ASSIGN b 789
-END

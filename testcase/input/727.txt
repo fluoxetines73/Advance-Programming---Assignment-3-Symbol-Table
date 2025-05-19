@@ -1,7 +1,0 @@
-RPRINT
-PRINT
-BEGIN
-INSERT c number
-RPRINT
-INSERT c number
-END

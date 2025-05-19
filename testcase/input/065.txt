@@ -1,8 +1,0 @@
-BEGIN
-INSERT x string
-PRINT
-INSERT b string
-PRINT
-END
-RPRINT
-RPRINT

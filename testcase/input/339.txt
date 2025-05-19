@@ -1,4 +1,0 @@
-PRINT
-INSERT __ g 123
-INSERT g_1 number
-INSERT a string
